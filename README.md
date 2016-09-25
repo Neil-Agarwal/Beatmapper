@@ -38,7 +38,7 @@ Fabulous- Razor Sharp by Pegboard Nerds and Tristam
 
 Copyright: We do not own any of the music and all credit should go to its owners who are listed above.
 
-#Game's Interface
+##Game's Interface
 
 ![image](https://cloud.githubusercontent.com/assets/22432455/18818822/f946c89e-8351-11e6-863a-23ab565f9334.png)
 
