@@ -27,12 +27,16 @@ Not on any part of the note you will LOSE 25 points.
 
 ##Song Information			
 The track played during the duration of the game depends on which difficulty you choose.
+
 Normal- I Can't Stop by Flux Pavillion
+
 Hard- New Divide by Linkin Park
+
 Insane- Bleed by Timmy Trumpet and SCNDL
+
 Fabulous- Razor Sharp by Pegboard Nerds and Tristam
 
 Copyright: We do not own any of the music and all credit should go to its owners who are listed above.
 
-
+A picture of the game's interface:
 
