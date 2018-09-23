@@ -1,7 +1,7 @@
 # Beatmapper
 
 ## Objective					
-Beatmapper is a fun rhythm game. You have to hit a key as its note goes over the still button at the top of the screen to rack up as many points as you can.
+Beatmapper is a fun rhythm game. You have to hit a key as its note goes over the static button at the top of the screen to rack up as many points as you can.
 
 ## How To Get Started			
 This game requires a short setup time with a simple two step process:
